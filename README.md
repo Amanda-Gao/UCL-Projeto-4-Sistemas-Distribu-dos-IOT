@@ -1,30 +1,6 @@
-<h1 align="center">
-    <img alt="mqtt-node" title="mqtt-node" src="./assets/banner.png" />
-</h1>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroksty/mqtt-node?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroksty/mqtt-node">
-
-  <a href="https://www.twitter.com/pedroksty/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpedroksty%2Fnlw1">
-  </a>
-	
-  
-  <a href="https://github.com/pedroksty/mqtt-node/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroksty/mqtt-node">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/pedroksty/mqtt-node/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroksty/mqtt-node?style=social">
-  </a>
-</p>
-
 ## 💻 Sobre o projeto
 
-Maneira fácil e rápida para criar um servidor MQTT local, publishers, e subscribers para seu projetos de internet das coisas 📱
+Projeto 4
 
 ## 🛠 Tecnologias
 
